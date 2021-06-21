@@ -1,6 +1,6 @@
 # Smart Proxy
 
-A food order and management Flutter UI concept.
+Mange attendance system more efficiently in order to different batch and sections organizing, using firebase database.
 
 ## Snapshots
 
