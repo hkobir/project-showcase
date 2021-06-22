@@ -1,6 +1,6 @@
 # Smart Proxy
 
-Mange attendance system more efficiently in order to different batch and sections organizing, using firebase database.
+Manage attendance system more efficiently in order to different batch and sections organizing, using firebase database.
 
 ## Snapshots
 
