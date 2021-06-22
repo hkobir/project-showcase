@@ -4,5 +4,11 @@ Whereby Google place API and firebase database was integrated for real-time data
 
 ## Snapshots
 
-<img src = "https://github.com/hkobir/project-showcase/blob/main/Smart%20Proxy/snapshots/s1.svg" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s0.png" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s1.png" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s2.png" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s3.png" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s4.png" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s5.png" width="250px" height="500">
+<img src = "https://github.com/hkobir/project-showcase/blob/main/Meditech/snapshots/s6.png" width="250px" height="500">
 
